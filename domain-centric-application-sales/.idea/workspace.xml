@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2f0605e-f5ff-4d3a-9bd2-938abdec8c29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SherlockCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales-specification/src/test/resources/numberofwaystomakechange/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales-specification/src/test/resources/sherlock/SherlockNumbers.input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales-specification/src/test/resources/sherlock/simple-caes-1-bruteforce.output" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales-specification/src/test/resources/sherlock/simple-case-1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SpecificationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sales-specification/target/test-classes/com/exploration/asela/sales/specification/SpecificationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales-specification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sales-specification/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/domain-centric-application-sales-webapp/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SherlockCost.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
@@ -100,11 +93,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sales-specification/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="285">
+              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -137,7 +130,6 @@
         <option value="$PROJECT_DIR$/sales-infrastructure/pom.xml" />
         <option value="$PROJECT_DIR$/sales-presentation/pom.xml" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/java/SpecificationTest.java" />
-        <option value="$PROJECT_DIR$/sales-specification/pom.xml" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SpecificationTest.java" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SherlockClost.java" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/resources/SherlockNumbers.input" />
@@ -145,6 +137,7 @@
         <option value="$PROJECT_DIR$/sales-specification/src/test/resources/sherlock/simple-case-1.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SherlockCost.java" />
+        <option value="$PROJECT_DIR$/sales-specification/pom.xml" />
       </list>
     </option>
   </component>
@@ -154,6 +147,27 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sales-specification" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sales-specification" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sales-specification" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -226,7 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559454199295" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559455685782" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sales-specification/src/test/java" />
     <property name="project.structure.last.edited" value="Project" />
@@ -386,15 +400,17 @@
       <option name="presentableId" value="Default" />
       <updated>1558761651869</updated>
     </task>
+    <task id="LOCAL-00001" summary="algo test">
+      <created>1559454244913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559454244913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SherlockCost_recursive - 2019.06.01 at 15h 44m 38s.xml">
-      <configuration name="SherlockCost.recursive" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SherlockCost_recursive - 2019.06.01 at 15h 47m 25s.xml">
-      <configuration name="SherlockCost.recursive" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SherlockCost_recursive - 2019.06.01 at 15h 48m 09s.xml">
       <configuration name="SherlockCost.recursive" configurationId="JUnit" />
     </history-entry>
@@ -419,17 +435,22 @@
     <history-entry file="SherlockCost_recursive - 2019.06.01 at 16h 21m 15s.xml">
       <configuration name="SherlockCost.recursive" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_domain-centric-application-sales_(1) - 2019.06.02 at 13h 43m 17s.xml">
+      <configuration name="All in domain-centric-application-sales (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_domain-centric-application-sales_(1) - 2019.06.02 at 13h 43m 26s.xml">
+      <configuration name="All in domain-centric-application-sales (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -437,20 +458,24 @@
       <window_info anchor="bottom" id="Messages" weight="0.3120482" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.3297568" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="algo test" />
+    <option name="LAST_COMMIT_MESSAGE" value="algo test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/domain-centric-application-sales-interfaces/pom.xml">
@@ -534,13 +559,6 @@
     <entry file="file://$PROJECT_DIR$/sales-specification/src/test/resources/numberofwaystomakechange/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sales-specification/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -555,6 +573,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sales-specification/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
         </state>
       </provider>
     </entry>
