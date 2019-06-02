@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2f0605e-f5ff-4d3a-9bd2-938abdec8c29" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sales-specification/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sales-specification/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/domain-centric-application-sales-webapp/target/" />
@@ -38,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="480">
+              <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -93,11 +94,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sales-specification/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="25" selection-start-line="25" selection-end-line="69" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -135,9 +136,9 @@
         <option value="$PROJECT_DIR$/sales-specification/src/test/resources/SherlockNumbers.input" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/resources/sherlock/simple-caes-1-bruteforce.output" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/resources/sherlock/simple-case-1.txt" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SherlockCost.java" />
         <option value="$PROJECT_DIR$/sales-specification/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -195,42 +196,6 @@
             </path>
             <path>
               <item name="domain-centric-application-sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domain-centric-application-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="sales-specification" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domain-centric-application-sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domain-centric-application-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="sales-specification" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domain-centric-application-sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domain-centric-application-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="sales-specification" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domain-centric-application-sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domain-centric-application-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="sales-specification" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="specification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domain-centric-application-sales" type="b2602c69:ProjectViewProjectNode" />
-              <item name="domain-centric-application-sales" type="462c0819:PsiDirectoryNode" />
-              <item name="sales-specification" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="domain-centric-application-sales" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -240,7 +205,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559455685782" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559456136917" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/sales-specification/src/test/java" />
     <property name="project.structure.last.edited" value="Project" />
@@ -407,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559454244913</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add report plugins">
+      <created>1559455870395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559455870395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -444,6 +416,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -475,7 +448,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="algo test" />
-    <option name="LAST_COMMIT_MESSAGE" value="algo test" />
+    <MESSAGE value="add report plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="add report plugins" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/domain-centric-application-sales-interfaces/pom.xml">
@@ -559,13 +533,6 @@
     <entry file="file://$PROJECT_DIR$/sales-specification/src/test/resources/numberofwaystomakechange/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sales-specification/src/test/java/com/exploration/asela/sales/specification/SherlockCost.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -578,8 +545,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sales-specification/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+        <state relative-caret-position="30">
+          <caret line="25" selection-start-line="25" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
         </state>
       </provider>
     </entry>
